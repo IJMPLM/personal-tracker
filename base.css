@@ -1,14 +1,13 @@
-#schedule {
+#SERschedule {
     margin: auto;
     border-collapse: collapse;
-}
-
-#schedule th {
-    border: 1px solid black;
-    padding: 15px;
 }
 
 #schedule td {
     border:  1px solid black;
     padding: 8px;
+    width: 100px;
+    height: 25px;
+    margin: auto;
 }
+
