@@ -7,7 +7,15 @@
     border:  1px solid black;
     padding: 8px;
     width: 100px;
+}
+
+.heading {
     height: 25px;
-    margin: auto;
+    text-align: center;
+}
+
+.timeStub {
+    height: 10px;
+    text-align: right;       /*margin is block level*/
 }
 
